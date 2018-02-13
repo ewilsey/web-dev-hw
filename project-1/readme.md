@@ -21,6 +21,6 @@ up my root index and test website. <br />
 On day 3: I cleaned up my test website and its
 about.me file. Then finished project-1 assignment parameters as well as this readme.md file.
 <hr />
-<hr2> Workspace </hr2>
+<h2> Workspace </h2>
 
 <img src = "./images/screenshot.png"  />
