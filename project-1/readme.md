@@ -18,7 +18,7 @@ I spread this assignment out to last about 3 days. <br /> On day 1:
  I read all of the
 source material. <br /> On day 2: I followed along on the course website on how to set
 up my root index and test website. <br />
-On day 3: I cleaned up my test website and the
+On day 3: I cleaned up my test website and its
 about.me file. Then finished project-1 assignment parameters as well as this readme.md file.
 <hr />
 <hr2> Workspace </hr2>
