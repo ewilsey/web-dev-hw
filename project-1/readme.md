@@ -14,11 +14,13 @@ stylized and contains pictures and movies.
 
 <hr />
 <h2> Work Flow </h2>
-I spread this assignment out to last about 3 days. <br /> On day one:
+I spread this assignment out to last about 3 days. <br /> On day 1:
  I read all of the
-source material. <br /> On day two: I followed along on the course website on how to set
+source material. <br /> On day 2: I followed along on the course website on how to set
 up my root index and test website. <br />
 On day 3: I cleaned up my test website and the
 about.me file. Then finished project-1 assignment parameters as well as this readme.md file.
+<hr />
+<hr2> Workspace </hr2>
 
 <img src = "./images/screenshot.png"  />
