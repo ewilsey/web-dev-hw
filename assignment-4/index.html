@@ -130,18 +130,24 @@
           <p>“Hi! I'm a
             <select name="experience-level">
             <!-- Step 10 -->
-
+            <option value="guppy">guppy</option>
+            <option value="beginner">beginner</option>
+            <option value="novice" selected >novice</option>
+            <option value="journeyman">journeyman</option>
+            <option value="expert">expert</option>
+            <option value="wizard">wizard</option>
             </select>
             web designer or developer.”</p>
 
           <p>“Last year, I spent
             <!-- Step 11 -->
-            <input type="text" name="experince-time"
+            <input type="numbers" name="experince-time"
             id="experince-time" placeholder="##" min="0" max="12" size="2"/>
             months studying or working in this field.”</p>
 
           <!-- Step 12 (textarea) -->
           “I think my most difficult task will be...
+          <textarea name="comments" id="test-textarea" cols="30" rows="2">Enter up to 500 characters...</textarea> "
         </div>
       </fieldset>
 
@@ -151,19 +157,47 @@
 
       <!-- Part 3: Course Offerings -->
       <!-- Steps 13-18 -->
-
+      <fieldset>
+        <legend> Offerings and Availability </legend>
+        <table><tr>
+      <th></th>
+      <th scope="col">Spring Semester</th>
+      <th scope="col">Summer Session</th>
+      <th scope="col">Autumn Session</th>
+      <th scope="col">Winter Session</th>
+      <th scope="col">Special Session</th>
+   </tr>
+   <tr>
+     <th scope="row">Day and Time</th>
+      <td>  M, W 12:00-2:00</td>
+      <td>M, W 12:00-2:00</td>
+      <td>F 12:00-4:00</td>
+        <td>TBA</td>
+   </tr>
+    <tr>
+      <th scope="row">Seats</th>
+      <td>12/60</td>
+      <td>FULL</td>
+      <td>2/60</td>
+      <td>0/60</td>
+    </tr>
+  </table>
+    <form action="http://www.example.com/login.php" method="post" id="sign-in" class="basic-forms">
+        <input type="text" name="username" id="username_input" />
+    </form>
+        <input type="password" name="password" id="test-password" />
 
         <!-- Step 19 -->
         <table>
 
         </table>
         <p>Yes! Sign me up for weekly e-mail alerts.
-
+          <input type="checkbox" name="newsletter" value="Yes" checked />
         </p>
-
-    </form>
+        <img src="./images/reg-button.png" alt="Register/Submit" title="Register" />
+      </form>
     </main>
     <!-- Step 20 -->
-
+    <img src="./images/registration-stationV2.jpg" alt="registration-station-version-2" title="Register Today!" width="500" height="333" />
   </body>
 </html>
