@@ -1,0 +1,24 @@
+/* This is my stylesheet */
+body {
+   /* Targets EVERY element in the body. */
+   font-family:"Times New Roman", Times, serif;
+   background-color: #660099
+}
+.canvas{
+  position: absolute;
+  width: 800px;
+  height: 800px;
+  background-color: #330066
+}
+/*Top Graphic*/
+.image1{
+     position: fixed;
+     top: 30px;
+     left: 100px;
+}
+/*Brottom Graphic */
+.image2{
+   position: fixed;
+     top: 80px;
+     left: 100px;
+}
