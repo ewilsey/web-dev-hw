@@ -1,37 +1,53 @@
 /* This is my stylesheet */
 body {
-   /* Targets EVERY element in the body. */
-   font-family:"Times New Roman", Times, serif;
-   background-color: #660099
+  /* Targets EVERY element in the body. */
+  background-color: #ffcc66;
+  padding: 10px;
 }
-.canvas{
-  position: absolute;
-  width: 800px;
-  height: 800px;
-  background-color: #330066
+header, footer {
+  /* Targets elements in the header/footer. */
+  font-family:"Times New Roman", Times, serif;
+  font-size: x-large;
+  background-color: #ff6699;
+  height 90px;
+  padding: 10px;
+  color: #ccff33;
+  border-style: double;
+  border-color: #660099;
+ }
+.content{
+  width: 100%;
+  display: flex;
 }
-/*Top Graphic*/
+main{
+
+  background-color: #330066;
+  border-style: double;
+  border-color: #ffcc66;
+  width: 61%;
+  height: 600px;
+  float: left;
+}
+/*Bottom Graphic*/
 .image1{
-  position: fixed;
-  top: 10px;
-  left: 100px;
+  height: 200px;
+  weight: 200px;
+  opacity: 0.85;
 }
-/*Brottom Graphic */
+/*Top Graphic */
 .image2{
-  position: fixed;
-  top: 100px;
-  left: 100px;
+  height: 200px;
+  weight: 200px;
+  opacity: 0.95;
 }
-
-.rec1{
-  background-color: #ff6699
-
+Aside{
+  width: 39%;
+  height: 600px;
+  background-color: #660099;
+  border-style: double;
+  border-color: #ffcc66;
+  float: right;
 }
-.rec2{
-  background-color: #ccff33
-
-}
-.rec3{
-  background-color: #ffcc66
-
+footer {
+   text-align: right !important;
 }
