@@ -1,0 +1,64 @@
+
+body {
+  font-size: 150%;
+  background-color: brown;
+  color: blue;
+  padding: 1.3em;
+}
+
+p {
+  font-family:'Mitr', sans-serif;
+  font-weight: 220;
+  font-size: 0.9em;
+  line-height: 2em;
+}
+
+a {
+  font-family: 'Mitr', sans-serif;
+  color: rgb(179, 40, 213);
+  text-decoration: none;
+  padding: 0.9em;
+}
+a:visited {
+  color: rgb(33, 33, 101);
+}
+
+a:hover {
+  background-color: rgb(50, 50, 150);
+  color: rgb(149, 126, 246);
+}
+a:active {
+  background-color: rgb(50,50,20);
+  border-width: thin;
+  border-style: dotted;
+}
+h3 {
+  font-family: 'Orbitron', monospace;
+  font-weight: 280;
+  color: rgb(15, 116, 43);
+
+}
+
+.info {
+  font-family: 'Orbitron', monospace;
+  font-weight: normal;
+  color: rgb(23, 119, 125);
+  font-size: 0.85em;
+  line-height: 0.65em;
+}
+
+h1 {
+  font-family: 'Orbitron', monospace;
+  font-weight: 700;
+}
+
+.logo {
+  width: 45%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.links{
+  text-align: left;
+}
