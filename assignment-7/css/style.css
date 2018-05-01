@@ -7,14 +7,14 @@ body {
 }
 
 p {
-  font-family:'Mitr', sans-serif;
+  font-family:'Playfair Display', sans-serif;
   font-weight: 220;
   font-size: 0.9em;
   line-height: 2em;
 }
 
 a {
-  font-family: 'Mitr', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   color: rgb(179, 40, 213);
   text-decoration: none;
   padding: 0.9em;
@@ -33,14 +33,14 @@ a:active {
   border-style: dotted;
 }
 h3 {
-  font-family: 'Orbitron', monospace;
+  font-family: 'Playfair Display', sans-serif;
   font-weight: 280;
   color: rgb(15, 116, 43);
 
 }
 
 .info {
-  font-family: 'Orbitron', monospace;
+  font-family: 'Playfair Display', sans-serif;
   font-weight: normal;
   color: rgb(23, 119, 125);
   font-size: 0.85em;
@@ -48,7 +48,7 @@ h3 {
 }
 
 h1 {
-  font-family: 'Orbitron', monospace;
+  font-family: 'Playfair', sans-serif;
   font-weight: 700;
 }
 
