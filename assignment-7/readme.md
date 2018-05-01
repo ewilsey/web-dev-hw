@@ -1,16 +1,16 @@
 <h1>assingment 7 report</h1>
 
-I chose the Artis.txt because I'm a gamer.
+I chose ataris.txt because I'm a gamer. I would love to make game trailers or art for games.
 
-System fonts are on the computer. ie Microstoft Word.
+System fonts are on the computer. ie: Microstoft Word.
 Web fonts are hosted on a server.
-Web-safe fonts common fonts shared on both PC and Mac.
+Web-safe fonts are common fonts that are shared between PC and Mac.
 
 My work cycle consisted of following the tutorial,
 referencing the review section
 and watching tutorials on YouTube. I started with
-index, then worked on the css.
-It was pretty straight forward.
+index, then worked on the css. And a lot of back and forth.
+
 
 ![Image of My Current
 Project](./images/screenshot.png)
