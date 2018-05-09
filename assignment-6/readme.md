@@ -17,10 +17,9 @@ The only problem I ran into was that my image
 floated on top of my main block
 I wanted to nest it inside of the main block.
 Instead it sits on top and covers
-whatever blocks it wants. It iss very frustrating.
+whatever blocks it wants. It is very frustrating.
 
-I am glad we are finally on CSS, now to get it to
-do what I want.
+I am glad we are finally on CSS.
 
 My work cycle consisted of following the tutorial,
 referencing the review section
