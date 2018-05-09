@@ -7,10 +7,15 @@
    padding: 1em;
 
 }
-small{
+
+.woman span{
+  position: absolute;
+  left: 10px;
+  text-align:left;
   font-size: 10px;
-  color:#303F44;
+
 }
+
 .banner{
 
 }
@@ -24,9 +29,12 @@ small{
 
 }
 .lower-left-box{
-
+  align-text:left;
 }
 .lower-right-box{
+  allign-content:center;
   border-style:dashed;
+  margin: 6em;
   padding: 1em;
+
 }

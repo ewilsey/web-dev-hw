@@ -4,3 +4,12 @@ body {
     line-height: 18px;
     color: #000;
 }
+.banner{
+  font-family: 'Comic Sans MS', 'Comic Sans', Trebuchet MS, Verdana, sans-serif;
+  font-style:italic ;
+  font-weight:bold;
+  font-size:30px;
+  font-kerning: none;
+  text-align:right;
+
+}
