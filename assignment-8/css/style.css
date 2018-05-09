@@ -1,7 +1,31 @@
-.my-box {
-  width: ;
-  height: ;
-  border: ;
-  padding: ;
-  margin: ;
+
+.parent-container {
+   width:469px;
+   height:1024px;
+   background-color: #FDFDF1;
+   color:#303F44;
+   padding: 1em;
+
+}
+small{
+  font-size: 10px;
+  color:#303F44;
+}
+.banner{
+
+}
+.top-right-box{
+
+}
+.middle-right-box{
+
+}
+.middle-left-box{
+
+}
+.lower-left-box{
+
+}
+.lower-right-box{
+  border-style:dashed;
 }
