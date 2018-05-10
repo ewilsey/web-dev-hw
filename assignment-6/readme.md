@@ -1,4 +1,4 @@
-<h1>assingment 6 report</h1>
+<h1>assignment 6 report</h1>
 
 I chose the 90's and 2 graphics that reminded
 me of a mirror that hung in my parent's entryway

@@ -12,6 +12,6 @@ My work cycle was pretty straight forward, I worked alongside the tutorials and 
 issues regarding my band of choice and sourcable images. I ended up surrendering the band in exchange for
 another, only to have similar issues once I reached the audio and video embedding sections. Because YMG owns
 the rights to the material, the video will not work on my webpage;however, there is a widget for Youtube
-that allows the video to be played there so I decided to keep it as-is, rather than to find a third band. I did not post issues this week but I did compare my code to others' on GitHub. 
+that allows the video to be played there so I decided to keep it as-is, rather than to find a third band. I did not post issues this week but I did compare my code to others' on GitHub.
 
 ![Image of My Current Project](./images/screenshot.png)

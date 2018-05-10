@@ -1,4 +1,4 @@
-<h1>assingment 7 report</h1>
+<h1>assignment 7 report</h1>
 
 I chose ataris.txt because I'm a gamer. I would love to make game trailers or art for games.
 
