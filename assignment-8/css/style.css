@@ -3,22 +3,18 @@
    width:469px;
    height:1024px;
    background-color: #FDFDF1;
-   color:#303F44;
    padding: 1em;
 
 }
 
 .woman span{
   position: absolute;
-  left:30px;
-  top:20px;
+  left:50px;
+  top:55px;
   text-align:left;
   font-size: 10px;
+  color:#303F44;
 
-}
-.woman p span{
-  position:absolute;
-  top:40px;
 }
 
 .banner{
@@ -26,8 +22,12 @@
 }
 .top-right-box{
   position:absolute;
-  left: 235;
-  top: 300;
+  height:300px;
+  width:235px;
+  left: 265px;
+  top: 120px;
+
+
 
 }
 .middle-right-box{
@@ -41,7 +41,10 @@
 }
 .lower-right-box{
   position:absolute;
-  height:50%;
+  height:235px;
   width:235px;
+  left:235px;
+  top:800px;
   border-style:dashed;
+
 }
