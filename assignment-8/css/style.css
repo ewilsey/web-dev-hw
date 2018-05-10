@@ -3,16 +3,16 @@
    width:469px;
    height:1024px;
    background-color: #FDFDF1;
-   padding: 1em;
+   padding:1em;
 
 }
 
 .woman span{
   position: absolute;
   left:50px;
-  top:55px;
+  top:65px;
   text-align:left;
-  font-size: 10px;
+  font-size:10px;
   color:#303F44;
 
 }
@@ -24,27 +24,45 @@
   position:absolute;
   height:300px;
   width:235px;
-  left: 265px;
-  top: 120px;
+  left:265px;
+  top:110px;
 
 
 
 }
 .middle-right-box{
+  position:absolute;
+  height:200px;
+  width:235px;
+  left:260px;
+  top:540px;
 
 }
 .middle-left-box{
+  position:absolute;
+  height:200px;
+  width:235px;
+  left:5px;
+  top:640px;
 
 }
 .lower-left-box{
+  position:absolute;
+  height:165px;
+  width:235px;
+  left:5px;
+  top:930px;
+
 
 }
 .lower-right-box{
   position:absolute;
-  height:235px;
+  height:165px;
   width:235px;
-  left:235px;
-  top:800px;
+  left:245px;
+  top:-60px;
   border-style:dashed;
+  padding-bottom: 1em;
+
 
 }
