@@ -16,7 +16,7 @@ not moving where I wanted because I forgot to add px to the end of the number.
 It had me very frustrated.
 
 This assignment took me roughly 9 hours to complete. I had fun. I could spend the next
-two hours trying to figure out how to move a <p> element in a span element, but I'm
+two hours trying to figure out how to move a < p > element in a span element, but I'm
 gonna call it good instead.
 
 
