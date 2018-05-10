@@ -10,16 +10,24 @@
 
 .woman span{
   position: absolute;
-  left: 10px;
+  left:30px;
+  top:20px;
   text-align:left;
   font-size: 10px;
 
+}
+.woman p span{
+  position:absolute;
+  top:40px;
 }
 
 .banner{
 
 }
 .top-right-box{
+  position:absolute;
+  left: 235;
+  top: 300;
 
 }
 .middle-right-box{
@@ -29,12 +37,11 @@
 
 }
 .lower-left-box{
-  align-text:left;
+
 }
 .lower-right-box{
-  allign-content:center;
+  position:absolute;
+  height:50%;
+  width:235px;
   border-style:dashed;
-  margin: 6em;
-  padding: 1em;
-
 }
