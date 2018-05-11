@@ -1,26 +1,13 @@
 
 
-@font-face {
-  font-family: 'Playfair';
-   src: url('../fonts/PlayfairDisplay-Regular.ttf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
+h1, h5{
+  font-family: 'Indie Flower', cursive;
 }
-@font-face {
-  font-family: 'Playfair';
-     src: url('../fonts/PlayfairDisplay-Regular.ttf') format('opentype');
-  font-weight: bold;
-  font-style: normal;
+
+
+.Excerpt{
+  font-family: 'Comfortaa', cursive;
 }
-@font-face {
-  font-family: 'Playfair';
-   src: url('../fonts/PlayfairDisplay-Regular.ttf') format('opentype');
-  font-weight: 900;
-  font-style: italic;
-}
-@font-face {
-  font-family: 'Playfair';
-   src: url('../fonts/PlayfairDisplay-Regular.ttf') format('opentype');
-  font-weight: 900;
-  font-style: italic;
+h3, h6{
+  font-family: 'Comfortaa', cursive;
 }
