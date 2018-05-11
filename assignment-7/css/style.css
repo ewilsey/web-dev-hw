@@ -14,10 +14,14 @@ h3{
 }
 
 .Excerpt{
+  width:469px;
+  height:1024px;
   text-align: left;
   line-height: 1.1;
   background-color: #f4f3db;
-  color: #69350d
+  color: #69350d;
+  padding: 1em;
+  border-style: dotted;
 }
 
 .button-parent-element {
