@@ -1,5 +1,26 @@
-.Excerpt{
+body{
+    background-color: #251305;
+    color: #f4f3db;
+    border-width: 4px 6px 6px 4px;
+    border-style: hidden;
+}
 
+h1, h3, h5, h6{
+  text-align: right;
+}
+
+h3{
+  text-decoration: underline;
+}
+
+strong{
+    font-size: 18px;
+}
+
+.Excerpt{
+  text-align: left;
+  background-color: #f4f3db;
+  color: #69350d
 }
 
 .button-parent-element {
@@ -8,12 +29,12 @@
 
 .button {
     font-size: 1.5em;
-    color: white;
+    color: #251305;
     font-weight: 600;
-    background-color: rgb(28,205,202);
-    border-color: #8f8b8b #383636 #383636 #8f8b8b;
+    background-color: #f4f3db;
+    border-color: #69350d #69350d #69350d #69350d;
     border-width: 9px 15px 15px 9px;
-    border-style: solid;
+    border-style: groove;
     position: relative;
     margin: auto;
     top: 1em;
@@ -25,3 +46,19 @@
 a {
     text-decoration: none;
     color: inherit;
+}
+
+.button:hover {
+    color: #69350d;
+    font-style: italic;
+    border-color: #69350d #69350d #69350d #69350d;
+    border-width: 15px 9px 9px 15px;
+
+}
+
+.button:active {
+    color: #251305;
+    background-color: #69350d;
+    border-color: #f4f3db #f4f3db #f4f3db #f4f3db;
+    border-width: 15px 9px 9px 15px;
+}

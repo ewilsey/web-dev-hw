@@ -1,13 +1,7 @@
-
-
-h1, h5{
-  font-family: 'Indie Flower', cursive;
+h1, h5, strong, .button{
+  font-family: 'Indie Flower', 'Comic Sans MS', 'Comic Sans', Trebuchet MS, Verdana, sans-serif, cursive;
 }
 
-
-.Excerpt{
-  font-family: 'Comfortaa', cursive;
-}
-h3, h6{
+h3, h6, .Excerpt{
   font-family: 'Comfortaa', cursive;
 }
