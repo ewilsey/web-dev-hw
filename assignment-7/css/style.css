@@ -1,3 +1,27 @@
 .Excerpt{
-  
+
 }
+
+.button-parent-element {
+    min-height: 10em;
+}
+
+.button {
+    font-size: 1.5em;
+    color: white;
+    font-weight: 600;
+    background-color: rgb(28,205,202);
+    border-color: #8f8b8b #383636 #383636 #8f8b8b;
+    border-width: 9px 15px 15px 9px;
+    border-style: solid;
+    position: relative;
+    margin: auto;
+    top: 1em;
+    padding: 1em;
+    width: 9em;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
